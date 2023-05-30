@@ -1,0 +1,39 @@
+body{ background-color: black;}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    height: 180px;
+    width: 150px;
+    border: 2px solid blue ;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green
+{
+    background-color: green;
+}
+.orange
+{
+    background-color: orange;
+}
+.gold{
+    background-color: gold;
+}
+.silver{
+    background-color: silver;
+}
+.aqua
+{
+    background-color: aqua;
+}
+
+
